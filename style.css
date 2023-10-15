@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
+
+.logo{
+    width: 100px;
+}
+
+.logo1{
+    width: 317px;
+
+}
+.BMW{
+    width: 385px;
+    height: 251px;
+}
+
+.BMW3{
+    width: 385px;
+    height: 251px;
+}
+body {
+font-family: Arial,sans-serif;
+margin: 0;
+padding: 0;
+}
+
+header {
+background-color: rgb(255, 0, 0);
+color: rgb(0, 0, 0);
+padding: 10px;
+font-size: 24px;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+}
+li{
+list-style: none;
+}
+
+main {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    padding: 10px;
+    font-size: 24px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+footer{
+background-color: black;
+color: rgb(255, 255, 255);
+padding: 10px;
+font-size: 24px;
+}
+
+
+
+
+
+
+
+#map {
+    height: 600px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+body {
+    margin: 0;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 14px;
+}
+
+section {
+    display:flex;
+}
+
+.contacts {
+    padding-left: 30px;
+}
+
+p {
+    margin-bottom: 40px;
+}
+
